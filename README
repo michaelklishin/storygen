@@ -1,0 +1,18 @@
+Storygen
+========
+
+Storygen is a simple Rails generator for RSpec Stories framework.
+
+
+Example
+=======
+
+Storygen is used just like any other Ruby on Rails generator:
+
+./script/generate rspec_story <story name>
+
+or, in case you want to remove generated story:
+
+./script/destroy rspec_story <story name>
+
+Copyright (c) 2008 Michael Klishin, released under the MIT license

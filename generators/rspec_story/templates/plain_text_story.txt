@@ -1,0 +1,13 @@
+Story: put your story name here
+
+  As role
+  I want feature
+  So that benefit
+
+  Scenario: everything is cool
+    Given precondition
+    And   another precondition
+    When  action
+    And   another action
+    Then  outcome
+    And   another outcome
